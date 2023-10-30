@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0xmak
 - 👀 I’m interested in cooking 
-- 🌱 I’m currently learning Kontlin
+- 🌱 I’m currently learning Kotlin
 - 📫 How to reach me @the_ajz.k
 
 <!---
