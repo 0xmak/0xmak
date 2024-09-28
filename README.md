@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0xmak
 - 👀 I’m interested in ethical hacking and penetesting 
-- 🌱 I’m currently learning vulnerabilities 
+- 🌱 I’m currently learning vulnerabilities
 - 📫 How to reach me @just.ajx_
 
 <!---
