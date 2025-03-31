@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @0xmak
-- I’m interested in UI/UI and graphic designing
+- I’m interested in UI/UX and graphic designing
 
 <!---
 0xmak/0xmak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
